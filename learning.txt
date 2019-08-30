@@ -1,0 +1,11 @@
+*GIT -version control
+https://learngitbranching.js.org
+
+*Docker
+*Kubernetes
+*AWS-Lambda
+*Linux - Bash
+*mTLS TLS for rest service
+*ELK stack for loggin
+*Micro api service
+
