@@ -3,6 +3,8 @@ https://learngitbranching.js.org
 
 *Docker
 *Kubernetes
+
+aws certified developer - https://tutorialsdojo.com/aws-certified-developer-associate/
 *AWS-Lambda
 *Linux - Bash
 *mTLS TLS for rest service
